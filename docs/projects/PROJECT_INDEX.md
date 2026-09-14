@@ -25,11 +25,11 @@
 | # | Project | Estimated Time | Key Topics |
 |---|---------|----------------|------------|
 | 8 | [Linear Regression](04_linear_regression.md) | 15-20 hours | Gradient descent, MSE, regularization |
-| 9 | Multiple Linear Regression | 12-15 hours | Feature engineering, multicollinearity |
-| 10 | Polynomial Regression | 10-12 hours | Non-linear relationships, overfitting |
-| 11 | Logistic Regression | 15-18 hours | Classification, sigmoid, log loss |
-| 12 | k-Nearest Neighbors | 12-15 hours | Distance metrics, curse of dimensionality |
-| 13 | Naive Bayes | 10-12 hours | Probability, conditional independence |
+| 9 | [Multiple Linear Regression](05_multiple_linear_regression.md) | 12-15 hours | Feature engineering, multicollinearity |
+| 10 | [Polynomial Regression](06_polynomial_regression.md) | 10-12 hours | Non-linear relationships, overfitting |
+| 11 | [Logistic Regression](07_logistic_regression.md) | 15-18 hours | Classification, sigmoid, log loss |
+| 12 | [k-Nearest Neighbors](08_k_nearest_neighbors.md) | 12-15 hours | Distance metrics, curse of dimensionality |
+| 13 | [Naive Bayes](09_naive_bayes.md) | 10-12 hours | Probability, conditional independence |
 | 14 | Decision Trees | 15-18 hours | Entropy, information gain, pruning |
 | 15 | Random Forests | 12-15 hours | Bagging, ensemble methods |
 | 16 | Gradient Boosting | 15-18 hours | Boosting, weak learners |
